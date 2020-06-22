@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tictacfwd/static/css/main.cab3b057.chunk.css",
+    "main.js": "/tictacfwd/static/js/main.0e9fba96.chunk.js",
+    "main.js.map": "/tictacfwd/static/js/main.0e9fba96.chunk.js.map",
+    "runtime-main.js": "/tictacfwd/static/js/runtime-main.e882ce57.js",
+    "runtime-main.js.map": "/tictacfwd/static/js/runtime-main.e882ce57.js.map",
+    "static/js/2.0135eb43.chunk.js": "/tictacfwd/static/js/2.0135eb43.chunk.js",
+    "static/js/2.0135eb43.chunk.js.map": "/tictacfwd/static/js/2.0135eb43.chunk.js.map",
+    "index.html": "/tictacfwd/index.html",
+    "precache-manifest.0a8d8d6156f3cc718575e81f135cb00e.js": "/tictacfwd/precache-manifest.0a8d8d6156f3cc718575e81f135cb00e.js",
+    "service-worker.js": "/tictacfwd/service-worker.js",
+    "static/css/main.cab3b057.chunk.css.map": "/tictacfwd/static/css/main.cab3b057.chunk.css.map",
+    "static/js/2.0135eb43.chunk.js.LICENSE.txt": "/tictacfwd/static/js/2.0135eb43.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tictacfwd/static/media/bg.f1624a85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e882ce57.js",
+    "static/js/2.0135eb43.chunk.js",
+    "static/css/main.cab3b057.chunk.css",
+    "static/js/main.0e9fba96.chunk.js"
+  ]
+}
